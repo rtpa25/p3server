@@ -24,6 +24,7 @@ app.use(
     origin: [
       'http://localhost:3000',
       'https://portfolio-2-frontend.vercel.app',
+      'https://new-codep-lay.vercel.app',
     ],
     credentials: true,
   })
